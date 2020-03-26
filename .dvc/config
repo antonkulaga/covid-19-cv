@@ -1,0 +1,6 @@
+[core]
+    remote = covid
+['remote "covid"']
+    url = gdrive://0APuU2w04mc7qUk9PVA/repositories/covid
+    gdrive_client_id = 710796635688-iivsgbgsb6uv1fap6635dhvuei09o66c.apps.googleusercontent.com
+    gdrive_client_secret = a1Fz59uTpVNeG_VGuSKDLJXv
