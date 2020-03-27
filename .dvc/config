@@ -1,6 +1,6 @@
 [core]
-    remote = covid
-['remote "covid"']
-    url = gdrive://0APuU2w04mc7qUk9PVA/repositories/covid
+    remote = covid_xray
+['remote "covid_xray"']
+    url = gdrive://0ADqu3y20QtXiUk9PVA/Repositories/X-Ray
     gdrive_client_id = 710796635688-iivsgbgsb6uv1fap6635dhvuei09o66c.apps.googleusercontent.com
     gdrive_client_secret = a1Fz59uTpVNeG_VGuSKDLJXv
